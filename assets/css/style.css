@@ -288,7 +288,7 @@ button {
   background-color:#d4cba9;
 }
 
-.section-title--keycolorlight .section-title__stage {
+.section-title__stage {
   color: #d4cba9;
 }
 
@@ -511,5 +511,10 @@ button {
 
 .hidden {
   display: none;
+}
+
+
+.section-title--keycolorlight{
+  color: #d4cba9;
 }
 /*# sourceMappingURL=style.css.map */
